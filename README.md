@@ -59,10 +59,6 @@ diabetic_data.csv # Dataset
 requirements.txt # Dependencies
 DS_FinalProject (1).ipynb # Analysis notebook
 
----
-
-## 👩‍💻 Author
-Jumanah Al-Nahdi
 
 ---
 
